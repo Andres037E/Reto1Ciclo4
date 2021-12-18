@@ -1,0 +1,11 @@
+body {
+    /*background-color: rgba(96, 32, 147, 70%);*/
+    /*background-color: #96eeb9;*/
+    /*background-color: #A73489;*/
+    background-image: url("/src/main/resources/static/img/fondo_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cf {
+    background-color: #604c80;
+}
